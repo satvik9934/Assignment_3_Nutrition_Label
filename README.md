@@ -4,6 +4,8 @@
 
 # Hosted link:- https://satvik9934.github.io/Assignment_3_Nutrition_Label/
 
+# Freecodecamp link:- https://www.freecodecamp.org/satvik9934
+
 # screenshot of UI
 ![nl](https://github.com/satvik9934/Assignment_3_Nutrition_Label/assets/87279121/3533d98b-b186-4e86-83ce-05d28e78cb28)
 
